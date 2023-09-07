@@ -1,0 +1,4 @@
+[submodule "fs_simul_embarcadinhos"]
+	path = fs_simul_embarcadinhos
+	url = https://github.com/ErhardtAndrei/fs_simul_embarcadinhos
+	branch = master
